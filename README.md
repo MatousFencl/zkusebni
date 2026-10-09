@@ -3,6 +3,15 @@ hodina DIV
 
 ## nadpis druhe urovne
 
-**tucne text** *kurziva*
+**tucny text** *kurziva*
 
 ### nadpis treti urovne
+
+- tohle
+- je
+- seznam
+
+1.tohle
+2.je
+3.cislovany
+4.seznam
